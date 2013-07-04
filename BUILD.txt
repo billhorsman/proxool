@@ -1,8 +1,0 @@
-Building Proxool
--------------
-
-$Revision: 1.2 $
-$Date: 2002/09/24 09:34:38 $
-$Author: billhorsman $
-
-Please refer to doc/build.html for instructions on building Proxool.

@@ -1,0 +1,9 @@
+== Proxool has Moved!
+
+You can find it here:
+
+https://github.com/proxool/proxool
+
+Thanks,
+Bill Horsman
+4 July 2013
